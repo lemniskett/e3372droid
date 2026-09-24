@@ -41,3 +41,7 @@ zig cc -target aarch64-linux-musl -static -O2 -o bin/usb_modeswitch jni/usb_mode
 ```
 
 `jni/Android.mk` is the same source for `ndk-build` if you already use the NDK.
+
+## AI disclosure
+
+This module was written with Grok 4.7, a language model from SpaceXAI. Review the code before you install it on a phone.
