@@ -1,0 +1,6 @@
+id=e3372droid
+name=E3372 HiLink
+version=v1.0
+versionCode=1
+author=Syahrial
+description=Switch a Huawei E3372h HiLink stick to RNDIS and rename it to ethN on Android 16

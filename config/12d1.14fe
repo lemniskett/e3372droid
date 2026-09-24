@@ -1,0 +1,5 @@
+# Huawei E3372h virtual CD (12d1:14fe) to HiLink RNDIS (12d1:14dc).
+# HuaweiNewMode is not used. On this id it often enumerates 12d1:1506 (stick) instead of HiLink.
+TargetVendor=12d1
+TargetProduct=14dc
+MessageContent=55534243123456780000000000000a11062000000000000100000000000000
